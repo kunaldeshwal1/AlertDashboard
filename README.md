@@ -19,3 +19,8 @@ This project is a simple React-based dashboard to visualize alert data. It inclu
 - **Recharts**: Charting library for creating responsive and composable charts.
 - **@mui/material**: React components library for Material-UI.
 - **@emotion/react**, **@emotion/styled**: Emotion for styling components.
+
+## To start the app locally run the following commands
+- git clone  https://github.com/kunaldeshwal1/AlertDashboard.git
+- npm install
+- npm run dev
